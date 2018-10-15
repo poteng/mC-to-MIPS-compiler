@@ -8,6 +8,7 @@ Parser/Semantic Analyzer: Yacc
 
 Code generator: C
 
+
 # How to run it
 parser.y
 
@@ -34,6 +35,9 @@ Some scoop issues are not perfect yet.
 
 # Reference:
 http://epaperpress.com/lexandyacc/
+
 http://stackoverflow.com/questions/1737460/how-to-find-shift-reduce-conflict-in-this-yacc-file
+
 http://stackoverflow.com/questions/1760083/how-to-resolve-this-shift-reduce-conflict-in-yacc
+
 http://www.iis.sinica.edu.tw/~tshsu/compiler2005/slides/slide5.pdf
