@@ -22,7 +22,9 @@ Code generator: C
 
 Put above files together and use `make` command to compile.
 
-Use `./mcc < [filename].mc` to input a .mc file and process.
+Use `./mcc < [filename].mC` to input a .mC file and process.
+
+The output file `myfile.mips` will contain compiled MIPS code.
 
 ## About the program
 Most of the requirements for the feature of mC are met.
