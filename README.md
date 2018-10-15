@@ -6,7 +6,7 @@ Parser/Semantic Analyzer: Yacc
 Code generator: C
 
 
-#How to run it
+# How to run it
 parser.y
 scanner.l
 driver.c
@@ -24,7 +24,7 @@ Known bugs:
 Some scoop issues are not perfect yet.
 
 
-#Reference:
+# Reference:
 http://epaperpress.com/lexandyacc/
 http://stackoverflow.com/questions/1737460/how-to-find-shift-reduce-conflict-in-this-yacc-file
 http://stackoverflow.com/questions/1760083/how-to-resolve-this-shift-reduce-conflict-in-yacc
