@@ -5,7 +5,6 @@ Scanner: Lex
 Parser/Semantic Analyzer: Yacc
 Code generator: C
 
-
 # How to run it
 parser.y
 scanner.l
