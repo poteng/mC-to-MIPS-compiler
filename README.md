@@ -1,17 +1,26 @@
 # mC-to-MIPS-compiler
 
 This is a compiler which compiles a C-like language (minimal C) into MIPS assembly language.
+
 Scanner: Lex
+
 Parser/Semantic Analyzer: Yacc
+
 Code generator: C
 
 # How to run it
 parser.y
+
 scanner.l
+
 driver.c
+
 strtab.h
+
 tree.h
+
 tree.c
+
 Put above files together and use "make" command to compile.
 
 Use "./mcc < [filename].mc" to input a .mc file and process.
